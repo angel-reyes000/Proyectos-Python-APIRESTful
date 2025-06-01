@@ -1,0 +1,32 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "marca": "Nissan",
+      "modelo": "Tsuru",
+      "anio_produccion": 2000,
+      "convertible": false
+    },
+    {
+      "id": "2",
+      "marca": "Nissan",
+      "modelo": "Versa",
+      "anio_produccion": 1997,
+      "convertible": false
+    },
+    {
+      "id": "3",
+      "marca": "Chevrolet",
+      "modelo": "Camaro",
+      "anio_produccion": 1996,
+      "convertible": true
+    },
+    {
+      "id": 4,
+      "marca": "Susuki",
+      "modelo": "Swift",
+      "anio_produccion": 1993,
+      "convertible": false
+    }
+  ]
+}
